@@ -7,9 +7,10 @@ window.KAMURA_CONFIG = {
   sampleSchedule: [],
   // type: image / video / link。videoはMP4等、linkはYouTube等の外部動画ページ。
   gallery: [
-    { type: "image", src: "assets/character.webp", title: "神楽鬼かむら", caption: "キャラクタービジュアル", fit: "contain", background: "#d8edf1" },
-    { type: "image", src: "assets/logo.webp", title: "ネームロゴ", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
-    { type: "placeholder", title: "Illustration", caption: "イラスト掲載準備中" },
+    { type: "image", src: "2610-01.webp", title: "配信サムネ", caption: "キャラクタービジュアル", fit: "contain", background: "#d8edf1" },
+    { type: "image", src: "2610-02.webp", title: "基本ロゴ＆立ち絵", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
+    { type: "image", src: "2610-03.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
+    { type: "image", src: "2610-04.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
     { type: "placeholder", title: "Movie", caption: "動画掲載準備中", icon: "▷" }
   ],
   goods: [
