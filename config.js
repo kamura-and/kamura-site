@@ -2,7 +2,7 @@
 window.KAMURA_CONFIG = {
   links: { tiktok: "https://www.tiktok.com/@kamura_kaguragi", x: "https://x.com/K_M_R_a_0", booth: "https://kag1-by-kamura.booth.pm/", coconala: "https://coconala.com/users/6044787", skima: "https://skima.jp/profile?id=532762" },
   // 未接続時は準備中表示。Google Apps Script等で公開予定のみを返すJSON URLを指定。
-  scheduleEndpoint: "",
+  scheduleEndpoint: "https://script.google.com/macros/s/AKfycbwuMEV5jbd0NKv-xSbYGlNr6c3TdQqoXD4yVgxcTaLbeNNo14nJS0ATMvq3V4bw4Bt6/exec",
   // シート接続までの確定済み予定を追加できます。未確定のサンプル予定は公開しません。
   sampleSchedule: [],
   // type: image / video / link。videoはMP4等、linkはYouTube等の外部動画ページ。
