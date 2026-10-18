@@ -7,17 +7,17 @@ window.KAMURA_CONFIG = {
   sampleSchedule: [],
   // type: image / video / link。videoはMP4等、linkはYouTube等の外部動画ページ。
   gallery: [
-    { type: "image", src: "2610-01.webp", title: "配信サムネ", caption: "キャラクタービジュアル", fit: "contain", background: "#d8edf1" },
-    { type: "image", src: "2610-02.webp", title: "基本ロゴ＆立ち絵", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
-    { type: "image", src: "2610-03.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
-    { type: "image", src: "2610-04.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
+    { type: "image", src: "assets/2610-01.webp", title: "配信サムネ", caption: "キャラクタービジュアル", fit: "contain", background: "#d8edf1" },
+    { type: "image", src: "assets/2610-02.webp", title: "基本ロゴ＆立ち絵", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
+    { type: "image", src: "assets/2610-03.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
+    { type: "image", src: "assets/2610-04.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
     { type: "placeholder", title: "Movie", caption: "動画掲載準備中", icon: "▷" }
   ],
   goods: [
-    { title: "お品書き-01.webp", image: "神楽鬼 かむら【誕生記念 2026】 メッセージ付きフルセット", url: "https://kag1-by-kamura.booth.pm/items/8738196" },
-    { title: "神楽鬼 かむら【誕生記念 2026】ステッカー2種セット", image: "お品書き-02.webp", url: "https://kag1-by-kamura.booth.pm/items/8748446" },
-    { title: "神楽鬼 かむら【誕生記念 2026】 アクリルスタンド", image: "お品書き-03.webp", url: "https://kag1-by-kamura.booth.pm/items/8748457" },
-    { title: "神楽鬼 かむら【誕生記念 2026】 メッセージ付きイラストカード", image: "お品書き-04.webp", url: "https://kag1-by-kamura.booth.pm/items/8748464" },
+    { title: "神楽鬼 かむら【誕生記念 2026】 メッセージ付きフルセット", image: "assets/お品書き-01.webp", url: "https://kag1-by-kamura.booth.pm/items/8738196" },
+    { title: "神楽鬼 かむら【誕生記念 2026】ステッカー2種セット", image: "assets/お品書き-02.webp", url: "https://kag1-by-kamura.booth.pm/items/8748446" },
+    { title: "神楽鬼 かむら【誕生記念 2026】 アクリルスタンド", image: "assets/お品書き-03.webp", url: "https://kag1-by-kamura.booth.pm/items/8748457" },
+    { title: "神楽鬼 かむら【誕生記念 2026】 メッセージ付きイラストカード", image: "assets/お品書き-04.webp", url: "https://kag1-by-kamura.booth.pm/items/8748464" },
     { title: "Coming soon", image: "", url: "" },
     { title: "Coming soon", image: "", url: "" }
   ]
