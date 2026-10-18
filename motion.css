@@ -1,0 +1,12 @@
+.section-reveal{opacity:0;transition:opacity .8s ease-out}
+.section-reveal.is-revealed{opacity:1}
+/* Keep the top flame above its hero and the following section, below the fixed nav. */
+.intro{z-index:2}
+.intro .flame-intro{z-index:3}
+.gallery-track{cursor:grab;user-select:none;-webkit-user-select:none}
+.gallery-track .gallery-open,.gallery-track .gallery-placeholder{cursor:grab}
+.gallery-track img{-webkit-user-drag:none}
+.gallery-track.is-dragging{scroll-snap-type:none;scroll-behavior:auto}
+.gallery-track.is-dragging,.gallery-track.is-dragging *{cursor:grabbing!important}
+@media(prefers-reduced-motion:reduce){.section-reveal{opacity:1;transition:none}}
+@media print{.section-reveal{opacity:1!important;transition:none!important}}

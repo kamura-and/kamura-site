@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaguragi-kamura-official.kamura-and.chatgpt.site/sitemap.xml
