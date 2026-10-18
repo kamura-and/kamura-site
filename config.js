@@ -11,7 +11,7 @@ window.KAMURA_CONFIG = {
     { type: "image", src: "assets/2610-02.webp", title: "基本ロゴ＆立ち絵", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
     { type: "image", src: "assets/2610-03.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
     { type: "image", src: "assets/2610-04.webp", title: "イラスト", caption: "神楽鬼かむら ロゴ", fit: "contain", background: "#69b7cb" },
-    { type: "video", src: "assets/movie-01.mp4", title: "リメイクT-シャツお洋服紹介動画", caption: "クリックして再生" }
+    { type: "link", src: "https://www.tiktok.com/@kamura_kaguragi/video/7695289088701730100?is_from_webapp=1&sender_device=pc&web_id=7634212001321928210", title: "リメイクT-シャツお洋服紹介動画", caption: "クリックして再生" }
   ],
   goods: [
     { title: "神楽鬼 かむら【誕生記念 2026】 メッセージ付きフルセット", image: "assets/お品書き-01.webp", url: "https://kag1-by-kamura.booth.pm/items/8738196" },
