@@ -3,6 +3,7 @@
 /* Keep the top flame above its hero and the following section, below the fixed nav. */
 .intro{z-index:2}
 .intro .flame-intro{z-index:3}
+.gallery-seal{z-index:5;pointer-events:none}
 .gallery-track{cursor:grab;user-select:none;-webkit-user-select:none}
 .gallery-track .gallery-open,.gallery-track .gallery-placeholder{cursor:grab}
 .gallery-track img{-webkit-user-drag:none}
